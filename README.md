@@ -2,7 +2,7 @@
 
 This is the repo for the pwc Workshop "Open the Black-box using model agnostic explanation" at the WeAreDevelopers AI Congress 2018 in Vienna.
 
-Prior to the workshop, please make sure that you have Python 3 and the following libraries installed: jupyter, scikit-learn, pandas, lime, ipywidgets, (optionally keras and tensorflow). 
+Prior to the workshop, please make sure that you have Python 3 and pip and the following libraries installed: jupyter, sklearn, pandas, lime, ipywidgets, (optionally keras and tensorflow). 
 
 [Basic lime example with random forest](WRD workshop ohe random forest.ipynb)
 
